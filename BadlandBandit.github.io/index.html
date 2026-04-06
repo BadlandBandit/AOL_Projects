@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--Head-->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Brent Helfenbein | Portfolio</title>
+
+    <!-- Use a RELATIVE path so it works when deployed -->
+    <link rel="stylesheet" type="text/css" href="portfolio.css" />
+  </head>
+
+  <!--Body-->
+  <body class="Background">
+    <!--Navbar-->
+    <div class="Navbar">
+      <a class="active" href="#Home">Home</a>
+      <a href="#About">About</a>
+      <a href="#GitHub">GitHub</a>
+      <a href="#Contact">Contact</a>
+    </div>
+
+    <br />
+    <br />
+
+    <!--Background video-->
+    <div id="Home">
+      <video autoplay muted loop id="Typing_Video">
+        <source src="https://www.pexels.com/download/video/32522782/" type="video/mp4"/>
+        Your browser does not support HTML5 video.
+      </video>
+    </div>
+
+    <!--Video text-->
+    <div class="Video_Text">
+      <h1 class="white-text">Hi, I’m Brent Helfenbein.</h1>
+      <p class="center">
+        <strong>
+          <q>
+            Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+          </q>
+          <br />
+          <span>— Linus Torvalds</span>
+          <br /><br />
+
+          I build clean, practical software and I love the puzzle-solving side of development.
+          <br />
+          When I’m not coding, I’m usually hanging out with my two kids, planning the next trip, or
+          tinkering with a new project idea.
+          <br /><br />
+        </strong>
+        Take a look around — you’ll find a little about me, my work, and how to reach me.
+      </p>
+    </div>
+
+            <!-- Slideshow section added -->
+        <div id="Slideshow">
+            <div id="Slideshow_Background"> 
+                <div id="Slideshow_Container">
+                    <!-- Slide 1 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/Picture_of_You.jpg" alt="Picture of yourself">
+                        <div class="text">I'm available to assist you on your project!</div>
+                    </div>
+                    <!-- Slide 2 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/HTML_CSS_and_JavaScript.jpeg" alt="HTML, CSS, and JS logos"> 
+                        <div class="text">I am a full-stack software developer,<br> trained in:<br>HTML, CSS, JavaScript,</div>
+                    </div>
+                    <!-- Slide 3 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/Python.png" alt="Python logo">
+                        <div class="text">the popular programming language Python,</div>
+                    </div>
+                    <!-- Slide 4 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/C_Sharp_and_Dot_NET.png" alt="C# logo">
+                        <div class="text">C#, .NET Framework, ASP.NET, MVC, </div>
+                    </div>
+                    <!-- Slide 5 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/SQL_and_Database.jpg" alt="SQL logo"> 
+                        <div class="text">back end development, databases and SQL.</div>
+                    </div>
+                    <!-- Slide 6 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="images/Square Custom Picture.png" alt="Contact me now image"> 
+                        <div class="text"><a class="white-text contact" onclick="openForm()">Contact me now!</a></div>
+                    </div>
+                    <!-- Previous and next buttons -->
+                    <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="Next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
+                <br> <!-- Adds a space between the slideshow images and the dots -->
+
+                <!-- Slideshow dots (these are another way for users to navigate through the slideshow) -->
+                <div style="text-align: center">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span> 
+                    <span class="dot" onclick="currentSlide(4)"></span> 
+                    <span class="dot" onclick="currentSlide(5)"></span> 
+                    <span class="dot" onclick="currentSlide(6)"></span> 
+                </div>
+            </div>
+        </div>
+
+    <!--About section-->
+    <div class="Row" id="About">
+      <!--Left column-->
+      <div class="Column_2">
+        <!-- Consider swapping this for a photo of you, or a project screenshot -->
+        <img
+          src="https://images.pexels.com/photos/14553720/pexels-photo-14553720.jpeg"
+          alt="HTML code on a screen"
+        />
+      </div>
+
+      <!--Right column-->
+      <div class="Column_1">
+        <h1>About</h1>
+        <p>
+          I’m a software developer who genuinely enjoys building things that make life easier —
+          whether that’s a small tool, a full web app, or a clean backend that just works.
+          <br /><br />
+
+          I graduated from
+          <a href="https://www.learncodinganywhere.com" target="_blank" rel="noopener noreferrer">
+            The Tech Academy
+          </a>
+          Software Developer Boot Camp and I’ve trained in HTML, CSS, JavaScript, SQL, C# and more.
+          <br /><br />
+
+          I’m especially interested in full-stack development and I’m always sharpening my skills:
+          cleaner code, better UI, stronger architecture, and shipping projects that feel polished.
+          <br /><br />
+
+          If you’re looking for someone who communicates clearly and takes pride in the details,
+          <a href="#Contact">reach out</a> — I’d love to hear what you’re working on.
+        </p>
+      </div>
+    </div>
+
+    <!--GitHub section-->
+    <div class="Row" id="GitHub">
+      <!--Left column-->
+      <div class="Column_1">
+        <h1>GitHub</h1>
+        <p>
+          Want to see what I’ve been building lately?
+          <br />
+          I keep my projects and code samples on GitHub:
+        </p>
+        <p class="center">
+          <a href="https://github.com/BadlandBandit" target="_blank" rel="noopener noreferrer">
+            github.com/BadlandBandit
+          </a>
+        </p>
+      </div>
+
+      <!--Right column-->
+      <div class="Column_2">
+        <a href="https://github.com/BadlandBandit" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"
+            alt="GitHub logo"
+          />
+        </a>
+      </div>
+    </div>
+
+    <!--Contact section-->
+    <div class="Row" id="Contact">
+      <!--Contact image, left column-->
+      <div class="Column_2 Column_tall">
+      <img
+        src="https://www.freepnglogos.com/uploads/email-png/download-blue-email-png-png-image-pngimg-10.png"
+        alt="Email icon"
+      />
+      </div>
+
+      <!--Contact form, right column-->
+      <div class="Column_1 Column_tall">
+        <h1>Contact</h1>
+        <p>
+          If you want to collaborate, have a question, or just want to connect, send me a message
+          here:
+        </p>
+        <!-- Modal overlay and popup form -->
+        <div id="formModal" class="modal-overlay" style="display:none;">
+          <div class="modal-content">
+            <button class="close-btn" onclick="closeForm()">&times;</button>
+            <span class="close-btn" onclick="closeForm()">&times;</span>
+            <form id="myForm" action="https://formspree.io/f/xgoolyga" method="POST" name="contact-form">
+              <div class="form-group">
+                <label for="email">Your email:</label>
+                <input type="email" id="email" name="email" required />
+              </div>
+              <div class="form-group">
+                <label for="message">Your message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+              </div>
+              <button type="submit" class="submit-btn">Send</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Footer section-->
+    <footer>
+      <p class="center">
+        &copy; <span id="year"></span> Brent Helfenbein • Built with HTML & CSS
+      </p>
+    </footer>
+
+    <!-- Small nice touch: auto-updating year -->
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+  </body>
+  <script src="js/portfolio.js"></script>
+</html>

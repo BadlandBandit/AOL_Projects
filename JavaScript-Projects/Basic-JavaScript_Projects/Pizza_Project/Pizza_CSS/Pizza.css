@@ -1,0 +1,128 @@
+/* Pizza_CSS/Pizza.css */
+/* Clean restaurant pizza theme: warm cream + tomato red + basil green */
+
+:root{
+  --bg: #fbf7f0;          /* warm cream */
+  --card: #ffffff;
+  --ink: #1f2937;
+  --muted: #6b7280;
+
+  --tomato: #c2412d;      /* rich tomato */
+  --tomato-dark: #9f2f1f;
+  --basil: #166534;       /* deep basil */
+  --border: #e7dfd3;      /* warm border */
+  --shadow: 0 14px 30px rgba(17, 24, 39, 0.08);
+}
+
+*{ box-sizing: border-box; }
+
+body{
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(900px 500px at 15% 0%, rgba(194,65,45,0.08), transparent 60%),
+    radial-gradient(900px 500px at 85% 10%, rgba(22,101,52,0.08), transparent 55%),
+    var(--bg);
+  line-height: 1.45;
+}
+
+
+
+/* Main wrapper */
+#menuBG{
+  max-width: 1020px;
+  margin: 28px auto;
+  padding: 22px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(255,255,255,0.98));
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  position: relative;
+  overflow: hidden;
+}
+
+/* subtle stripe accent on top like a menu header */
+#menuBG::before{
+  content:"";
+  position:absolute;
+  left:0; right:0; top:0;
+  height: 8px;
+  background: linear-gradient(90deg, var(--tomato), var(--basil));
+}
+
+/* Title */
+#menuBG h1{
+  margin: 6px 0 14px 0 !important; /* overrides inline margin */
+  padding-left: 8px;
+  font-size: 2rem;
+  letter-spacing: 0.2px;
+}
+
+#menuBG h1::after{
+  content:"";
+  display:block;
+  width: 64px;
+  height: 3px;
+  margin-top: 8px;
+  border-radius: 999px;
+  background: rgba(194,65,45,0.75);
+}
+
+/* Order button */
+#btnOrder{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px 0 18px 8px;
+  padding: 12px 16px;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 12px;
+  background: linear-gradient(180deg, var(--tomato), var(--tomato-dark));
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 10px 18px rgba(194,65,45,0.18);
+  transition: transform 0.08s ease, filter 0.2s ease;
+}
+
+#btnOrder:hover{ filter: brightness(1.03); }
+#btnOrder:active{ transform: translateY(1px); }
+
+/* Add a small “pizza slice” icon using CSS (no HTML change needed) */
+#btnOrder::before{
+  content: "🍕";
+  font-size: 1.05rem;
+  line-height: 1;
+}
+
+/* Layout */
+#frmMenu{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(220px, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+/* Menu sections as cards */
+.menu{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 14px 12px;
+  box-shadow: 0 10px 18px rgba(17,24,39,0.05);
+}
+
+/* Section headings */
+.menu h3{
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+  letter-spacing: 0.2px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+

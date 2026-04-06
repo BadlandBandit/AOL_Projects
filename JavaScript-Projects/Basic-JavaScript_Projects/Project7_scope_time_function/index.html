@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Project7_scope_time_function</title>
+
+  <!-- Link to external JavaScript file -->
+  <script src="JS/main.js" defer></script>
+</head>
+<body>
+
+      <!-- Used to call get_Date() -->
+  <p id="Greeting" onclick="get_Date()">Guess what?</p>
+
+  <br>
+
+  <!-- Used to call get_Reply() -->
+  <p>Using the input box below, pick a number and click Submit.</p>
+
+  <input type="number" value="" id="userInput">
+
+  <button type="button" onclick="get_Reply()">Submit</button>
+
+  <p id="feedback"></p>
+
+  <br>
+
+  <!-- Calling the Time_function() -->
+  <p id="Time_of_day"></p>
+
+  <button onclick="Time_function()">Click here to get the time</button>
+
+</body>
+</html>
