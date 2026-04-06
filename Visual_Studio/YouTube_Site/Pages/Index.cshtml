@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Favorite Song";
+}
+
+<div class="text-center">
+    <h1 class="display-4">My Favorite Song</h1>
+    <p class="subtitle">
+        One of my favorite songs is <strong>"Take On Me"</strong> by a-ha.
+    </p>
+
+    <div class="video-container">
+        <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/djV11Xbc914"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+        </iframe>
+    </div>
+
+    <button id="animateBtn" class="btn btn-warning mt-3">Start Animation</button>
+
+    <div class="animation-area">
+        <div id="musicNote">🎵</div>
+    </div>
+</div>
+
+<script src="~/js/site.js"></script>

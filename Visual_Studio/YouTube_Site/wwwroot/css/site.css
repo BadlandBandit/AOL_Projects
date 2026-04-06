@@ -1,0 +1,51 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+    padding: 30px;
+}
+
+.display-4 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+}
+
+.video-container {
+    margin: 20px auto;
+}
+
+    .video-container iframe {
+        max-width: 100%;
+        border: 4px solid white;
+        border-radius: 12px;
+    }
+
+.animation-area {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+    overflow: hidden;
+    border-top: 2px solid rgba(255, 255, 255, 0.4);
+}
+
+#musicNote {
+    position: absolute;
+    left: 0;
+    top: 40px;
+    font-size: 3rem;
+}
