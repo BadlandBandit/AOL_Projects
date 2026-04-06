@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Link to the Google APT jQuery files-->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    </head>
+
+    <script>
+        //Wait until the document is loaded before running any jQuery
+        $(document).ready(function(){
+            //Selects the HTML element to append content
+            $("html").append(
+            //Content to be added to the HTML element
+            "<body>\
+                <div id='container'>\
+                  <div id='inner'>\
+                        <h1>Basic jQuery</h1>\
+                        <p id='1'>Paragraph 1</p>\
+                        <p id='2'>Paragraph 2</p>\
+                        <p id='3'>Paragraph 3</p>\
+                  </div>\
+                </div>\
+            </body>"
+          );
+          //Selects the HTML element with the id of 1 and hides it slowly  
+          $("#1").hide("slow");
+          //Selects the HTML element with the id of 2 and changes its color to blue
+          $("#2").css({"color": "blue"});
+          //Selects the HTML element with the id of 3 and adds a click event listener to it
+          $("#3").click(function(){
+                console.log("Paragraph 3 was clicked");
+        });
+    });
+            
+    
+    </script>
+</html>
