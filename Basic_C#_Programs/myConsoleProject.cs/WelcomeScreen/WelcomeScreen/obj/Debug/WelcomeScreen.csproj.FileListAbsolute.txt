@@ -1,0 +1,7 @@
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.AssemblyReference.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\myConsoleProject.cs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
