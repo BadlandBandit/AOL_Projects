@@ -1,0 +1,15 @@
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\bin\Debug\net10.0\IncomeComparison.exe
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\bin\Debug\net10.0\IncomeComparison.deps.json
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\bin\Debug\net10.0\IncomeComparison.runtimeconfig.json
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\bin\Debug\net10.0\IncomeComparison.dll
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\bin\Debug\net10.0\IncomeComparison.pdb
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.AssemblyInfoInputs.cache
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.AssemblyInfo.cs
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.sourcelink.json
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.dll
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\refint\IncomeComparison.dll
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.pdb
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\IncomeComparison.genruntimeconfig.cache
+C:\Users\buysu\Documents\AOL\MathAndComparisonOperatorsAssignment\obj\Debug\net10.0\ref\IncomeComparison.dll
