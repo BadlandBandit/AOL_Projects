@@ -1,0 +1,15 @@
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\bin\Debug\net10.0\MathInputCalculator.exe
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\bin\Debug\net10.0\MathInputCalculator.deps.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\bin\Debug\net10.0\MathInputCalculator.runtimeconfig.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\bin\Debug\net10.0\MathInputCalculator.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\bin\Debug\net10.0\MathInputCalculator.pdb
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.AssemblyInfoInputs.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.AssemblyInfo.cs
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.csproj.CoreCompileInputs.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.sourcelink.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\refint\MathInputCalculator.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.pdb
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\MathInputCalculator.genruntimeconfig.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\MathInputCalculator\obj\Debug\net10.0\ref\MathInputCalculator.dll
