@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PackageExpress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+655fdc340d912c68dd3f7b14e3c17f06781fd911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73806bf16acff3627c35dd2309cde5086b3518ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("PackageExpress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PackageExpress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

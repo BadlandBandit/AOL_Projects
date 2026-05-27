@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathInputCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e914581713f72af1e8124ca5f7964d56c81af83c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73806bf16acff3627c35dd2309cde5086b3518ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathInputCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathInputCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
