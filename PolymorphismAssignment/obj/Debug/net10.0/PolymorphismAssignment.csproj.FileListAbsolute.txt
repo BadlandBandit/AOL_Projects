@@ -1,0 +1,15 @@
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\bin\Debug\net10.0\PolymorphismAssignment.exe
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\bin\Debug\net10.0\PolymorphismAssignment.deps.json
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\bin\Debug\net10.0\PolymorphismAssignment.runtimeconfig.json
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\bin\Debug\net10.0\PolymorphismAssignment.dll
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\bin\Debug\net10.0\PolymorphismAssignment.pdb
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.AssemblyInfoInputs.cache
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.AssemblyInfo.cs
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.sourcelink.json
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.dll
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\refint\PolymorphismAssignment.dll
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.pdb
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\PolymorphismAssignment.genruntimeconfig.cache
+C:\Users\buysu\Documents\AOL\PolymorphismAssignment\obj\Debug\net10.0\ref\PolymorphismAssignment.dll

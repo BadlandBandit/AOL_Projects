@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IncomeComparison")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+605e8355210365e9236415637b346164e72bf52c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8d340e32a0ac6aa41cb2ea2e9c745387941208")]
 [assembly: System.Reflection.AssemblyProductAttribute("IncomeComparison")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IncomeComparison")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
