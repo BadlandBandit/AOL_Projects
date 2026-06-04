@@ -1,0 +1,15 @@
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\net8.0\OperatorOverloadingAssignment.exe
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\net8.0\OperatorOverloadingAssignment.deps.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\net8.0\OperatorOverloadingAssignment.runtimeconfig.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\net8.0\OperatorOverloadingAssignment.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\net8.0\OperatorOverloadingAssignment.pdb
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.AssemblyInfoInputs.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.AssemblyInfo.cs
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.sourcelink.json
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\refint\OperatorOverloadingAssignment.dll
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.pdb
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\OperatorOverloadingAssignment.genruntimeconfig.cache
+C:\Users\buysu\Documents\AOL\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\net8.0\ref\OperatorOverloadingAssignment.dll
