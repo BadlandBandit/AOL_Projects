@@ -1,0 +1,59 @@
+/* Light styling enhancements for Insuree CRUD pages */
+
+.insuree-page h1,
+.insuree-page h4 {
+    color: #1f4e5f;
+}
+
+.insuree-page .text-muted {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.insuree-page .form-control:focus {
+    border-color: #2a7f9e;
+    box-shadow: 0 0 0 0.2rem rgba(42, 127, 158, 0.18);
+}
+
+.insuree-page .btn-primary {
+    background-color: #2a7f9e;
+    border-color: #2a7f9e;
+}
+
+.insuree-page .btn-primary:hover {
+    background-color: #236c85;
+    border-color: #236c85;
+}
+
+.insuree-page .table {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.insuree-page .table thead {
+    background-color: #e8f3f7;
+}
+
+.insuree-page .table th {
+    color: #1f4e5f;
+    border-bottom: 1px solid #c9dfe8;
+}
+
+.insuree-page .table td,
+.insuree-page .table th {
+    vertical-align: middle;
+}
+
+.insuree-page .row {
+    background: #fbfdfe;
+    border: 1px solid #e6eff3;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.insuree-page dl.row {
+    background: #fbfdfe;
+    border: 1px solid #e6eff3;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
